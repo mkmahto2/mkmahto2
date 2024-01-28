@@ -5,23 +5,31 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on  ...
-- 🌱 I’m currently learning python ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 -->
 ## Hi 👋 I am Mukesh kumar mahto
 
 I am a developer who is passionate about stuff like deep learning and data science. Few tech that I enjoy working in, are Python, C++. I play cricket and design in photoshop. Also, I have just started tech-blogging! 
 
-- 👨🏽‍💻 Currently working in python, competitive coding, data structures and algorithms.
-- 🤝 Open for collaborations in deep learning, analytics and data science.
-- 😊 Willing to contribute in opensource projects.
-- 👍 Looking for opportunities to join as an intern/full time candidate in machine learning/deep learning research teams.
+
+- ❄️Collaboration: Facilitating communication and collaboration between development and operations teams to ensure a smooth and efficient workflow.
+
+-  ❄️Automation: Implementing automation tools and practices to streamline processes, reduce manual errors, and accelerate the delivery of software.
+
+-  ❄️Continuous Integration (CI): Setting up and managing CI pipelines to enable frequent and automated testing of code changes, ensuring early detection of issues.
+
+- ❄️ Continuous Deployment (CD): Implementing CD pipelines to automate the deployment of code changes to production, making the release process more reliable and efficient.
+
+- ❄️ Infrastructure as Code (IaC): Managing infrastructure through code to enable the automation and versioning of infrastructure configurations, promoting consistency and reproducibility.
+
+- ❄️ Monitoring and Logging: Implementing monitoring solutions to track application and infrastructure performance, as well as collecting and analyzing logs to troubleshoot issues.
+
+-  ❄️Security: Integrating security practices into the DevOps pipeline, ensuring that security is considered at every stage of development and deployment.
+
+-  ❄️Scalability: Designing and implementing scalable and resilient infrastructure to handle varying workloads and ensure high availability.
+
+- ❄️Cloud Computing: Utilizing cloud services and platforms to optimize resource usage, enhance scalability, and leverage on-demand infrastructure.
+
+-  ❄️Feedback and Improvement: Collecting and analyzing feedback from production environments to drive continuous improvement in both processes and code.
 
 
 To connect with me,
