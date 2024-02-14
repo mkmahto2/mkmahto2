@@ -8,7 +8,7 @@ Here are some ideas to get you started:
 -->
 ## Hi 👋 I am Mukesh kumar mahto
 
-I am a developer who is passionate about stuff like ReactJS, FrontEnd. Few tech that I enjoy working in, are Python, C++. I play cricket and design in photoshop. Also, I have just started tech-blogging! 
+I am a developer who is passionate about stuff like ReactJS, FrontEnd and Devops Engineer. Few tech that I enjoy working in, are Python I play cricket and design in photoshop. Also, I have just started tech-blogging! 
 
 
 - ❄️Collaboration: Facilitating communication and collaboration between development and operations teams to ensure a smooth and efficient workflow.
@@ -41,7 +41,7 @@ To connect with me,
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/mkmahto7/)
 [<img src = "https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/mukeshaims.7755/?hl=hi/)
  ![](https://img.shields.io/github/followers/mkmahto2?style=for-the-badge&logo=appveyor)
-
+[<img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" />](https://medium.com/@mukesh.7755/)
 </p>
 
 ---
