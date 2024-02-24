@@ -8,7 +8,7 @@ Here are some ideas to get you started:
 -->
 ## Hi 👋 I am Mukesh kumar mahto
 
-I am a developer who is passionate about stuff like ReactJS, FrontEnd and Devops Engineer. Few tech that I enjoy working in, are Python I play cricket and design in photoshop. Also, I have just started tech-blogging! 
+I am a developer who is passionate about stuff like Cloud and Devops Engineer. Few tech that I enjoy working in, are Python I play cricket and design in photoshop. Also, I have just started tech-blogging! 
 
 
 - ❄️Collaboration: Facilitating communication and collaboration between development and operations teams to ensure a smooth and efficient workflow.
